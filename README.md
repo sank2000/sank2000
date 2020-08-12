@@ -1,6 +1,6 @@
-### Hi,I'm Snthosh 👋
+### Hi,I'm Santhosh 👋
 
-##I'm a Developer
+## I'm a Developer
 
 
 
