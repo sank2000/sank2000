@@ -9,7 +9,12 @@
 - 💬 Ask me about c,c++,js,react
 - 😄 Pronouns: san
 
-<!--
-**sank2000/sank2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
--->
+[<img align="left" alt="sank2000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sank2000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sank2000&show_icons=true&hide_border=true" />
