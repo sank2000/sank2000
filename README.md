@@ -39,6 +39,9 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/codepen.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/codesandbox.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/figma.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/oracle.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mongodb.png" />
