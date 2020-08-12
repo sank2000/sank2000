@@ -5,8 +5,8 @@
 
 
 - 💻 I’m currently working on ZOSIME Tech
-- 🌱 I’m currently learning React,TypeScript etc
-- 💬 Ask me about MERN stack,js,java etc
+- 🌱 I’m currently learning React,TypeScript etc..
+- 💬 Ask me about MERN stack,js,java etc..
 - 😄 Pronouns: san
 
 ### Connect with me:
