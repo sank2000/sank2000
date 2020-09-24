@@ -55,13 +55,13 @@
 
 <br />
 
-***
+//***
 
-<img align="left" alt="Sank2000's Github Stats" src="https://github-readme-stats-san.vercel.app/api?username=sank2000&show_icons=true&theme=cobalt">
+//<img align="left" alt="Sank2000's Github Stats" src="https://github-readme-stats-san.vercel.app/api?username=sank2000&show_icons=true&theme=cobalt">
 
-<a href="#stats">
-<img align="center" src = "https://github-readme-stats-san.vercel.app/api/top-langs/?username=sank2000&layout=compact" />
-</a>
+//<a href="#stats">
+//<img align="center" src = "https://github-readme-stats-san.vercel.app/api/top-langs/?username=sank2000&layout=compact" />
+//</a>
 
 [twitter]: https://twitter.com/santhoshvelr
 [instagram]: https://instagram.com/santhoshvelr
