@@ -4,8 +4,8 @@
 
 
 
-- 🌱 I’m currently learning React,TypeScript etc..
-- 💬 Ask me about MERN stack,js,java etc..
+- 🌱 I’m currently planning to learn TypeScript.
+- 💬 Ask me about MERN stack,js,React etc..
 - 😄 Pronouns: san
 
 ### Connect with me:
