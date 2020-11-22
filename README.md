@@ -2,7 +2,7 @@
 
 ## I'm a Developer 👨‍💻
 
-<img align="right" alt="GIF" src="/code.gif" width="500" height="320" />
+<img alt="GIF" src="/code.gif" height="200" />
 
 - 💬 Ask me about MERN stack,js,React etc..
 - 😄 Pronouns: san
@@ -30,6 +30,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ### Tools and other stuffs:
 
@@ -44,7 +46,6 @@
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <br />
-
 
 <!-- <img align="left" alt="Sank2000's Github Stats" src="https://github-readme-stats-san.vercel.app/api?username=sank2000&show_icons=true&theme=cobalt"> -->
 
