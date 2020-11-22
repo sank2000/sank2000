@@ -2,7 +2,7 @@
 
 ## I'm a Developer 👨‍💻
 
-
+<img align="right" alt="GIF" src="/code.gif" width="500" height="320" />
 
 - 🌱 I’m currently planning to learn TypeScript.
 - 💬 Ask me about MERN stack,js,React etc..
