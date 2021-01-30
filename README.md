@@ -4,8 +4,6 @@
 
 <img alt="GIF" src="/code.gif" height="200" />
 
-- 💬 Ask me about MERN stack,js,React etc..
-- 😄 Pronouns: san
 
 ### Connect with me:
 
