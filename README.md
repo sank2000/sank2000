@@ -1,5 +1,5 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Santhosh Here ,
+### Santhosh Here <img src="/blink.gif" width="25px">,
 ## I'm a Developer 👨‍💻
 
 <img alt="GIF" src="/code.gif" height="200" />
