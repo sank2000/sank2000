@@ -1,8 +1,8 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Santhosh Here <img src="/blink.gif" width="25px">,
-## I'm a Full-stack web Developer
+## I'm a Full-Stack Web Developer
 
-<img alt="GIF" src="/code.gif" />
+<img alt="GIF" src="/code.gif" width="400px" />
 
 
 ### Connect with me:
