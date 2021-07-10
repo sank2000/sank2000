@@ -11,6 +11,13 @@
 [<img align="left" alt="sank2000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sank2000&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="contributions" />
+</p>
+
 
 ### Languages and Libraries:
 
