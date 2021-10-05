@@ -13,12 +13,6 @@
 <br />
 <br />
 
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sank2000&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="contributions" />
-</p>
-
-
 ### Languages and Libraries:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
